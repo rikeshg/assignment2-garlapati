@@ -14,4 +14,7 @@
     3. Go to appropriate gate.
 3. Then travel from dallas city to hyderabad through another flight.
 
-* 
+* Water bottle.
+* Jacket.
+* Shoes.
+* Phone.
