@@ -5,11 +5,13 @@
 
 ---
 
-# Route from marryville to andhra pradesh.
+# Route from Maryville to Andhra Pradesh.
 
-1. Take cab from marryville to kansas city.
+1. Take cab from maryville to kansas city.
 2. Travel from kansas city to dallas city through flight.
     1. Take a air train to go to terminal A.
     2. Complete your web checking formalities.
     3. Go to appropriate gate.
 3. Then travel from dallas city to hyderabad through another flight.
+
+* 
