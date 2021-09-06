@@ -15,3 +15,8 @@ following table illustrates the beverages cost and locations where we can get.
 |    coke     |    Mcd   | 2.5usd |
 | french fries|  tachos  | 3.0usd |
 |   sprite    |    Mcd   | 2.5usd |
+
+
+>The purpose of our lives is to be happy. — *Dalai Lama*
+
+>Life is what happens when you’re busy making other plans. — *John Lennon*
